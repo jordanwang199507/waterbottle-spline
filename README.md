@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# 🍼 Waterbottle 3D Product Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### simple 3D waterbottle product page build with Spline, React and SCSS
 
-## Available Scripts
+[Spline](https://spline.design/)
 
-In the project directory, you can run:
+[![made-with-Node](https://img.shields.io/badge/Made%20with-Node.js%20-success)](https://nodejs.org/en/)
+[![made-with-React](https://img.shields.io/badge/Made%20with-React%20-blue)](https://React.com/)
+[![made-with-Spline](https://img.shields.io/badge/Made%20with-Spline%20-yellow)](https://spline.design/)
 
-### `npm start`
+![Jul-24-2024 16-28-08](https://github.com/user-attachments/assets/45f5d544-fdf8-4623-9c68-10e9cd61de6d)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+## 🏁 Getting Started
+1. Clone it <br>
+   `git clone https://github.com/jordanwang199507/dealership-app`
+2. Navigate to the repository<br>
+   `cd dealership-app`
+3. Install all the depndencies <br>
+   `npm install`
+4. Run the server
+   `npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📘 Tech Stack
+- [React](https://react.dev/)
+- [Spline](https://spline.design/)
+- [SCSS](https://sass-lang.com/)
 
-### `npm test`
+## 🔨 Created By
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Jordan Wang @jordanwang199507
