@@ -13,9 +13,9 @@
 ---
 ## 🏁 Getting Started
 1. Clone it <br>
-   `git clone https://github.com/jordanwang199507/dealership-app`
+   `git clone https://github.com/jordanwang199507/waterbottle-spline`
 2. Navigate to the repository<br>
-   `cd dealership-app`
+   `cd waterbottle-spline`
 3. Install all the depndencies <br>
    `npm install`
 4. Run the server
